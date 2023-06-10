@@ -1,0 +1,33 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::18_verification"
+msgid "18+ verification"
+msgstr "18+ verification"
+
+msgctxt "Addons::description::18_verification"
+msgid "Block access of minors user by validation entering the date of birth."
+msgstr "Block access of minors user by validation entering the date of birth."
+
+msgctxt "Languages::18_verification_menu_description"
+msgid "Block access of minors user."
+msgstr "Block access of minors user."
+
+msgctxt "Languages::enter_your_date_of_birth"
+msgid "Enter your date of birth."
+msgstr "Enter your date of birth."
+
+msgctxt "Languages::allowed_age_not_confirmed"
+msgid "Allowed age not confirmed!"
+msgstr "Allowed age not confirmed!"
+
+msgctxt "Languages::access_to_the_site_is_closed"
+msgid "Access to the site is closed!"
+msgstr "Access to the site is closed!"
+
+msgctxt "Languages::age_verification"
+msgid "Age verification."
+msgstr "Age verification."
