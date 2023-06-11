@@ -45,4 +45,4 @@
                 $smarty.capture.content_unavailable :
                 $smarty.capture.age_check_form}
     </div>
- {/if}
+{/if}
