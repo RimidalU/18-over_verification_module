@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>18_verification</id>
+    <supplier>RimidalU</supplier>
+    <version>1.0</version>
+    <priority>1200</priority>
+    <position>20</position>
+    <status>active</status>
+    <default_language>en</default_language>
+</addon>
